@@ -1,0 +1,35 @@
+# Node.js modules
+node_modules/
+
+# Build output
+/dist/
+/build/
+/www/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files (keep sensitive info out of Git)
+.env
+
+# IDE or editor specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.swp
+*.swo
+
+# Yarn lock (if using Yarn)
+yarn.lock
+
+# Miscellaneous
+npm-debug.log
